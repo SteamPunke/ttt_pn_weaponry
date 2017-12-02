@@ -1,7 +1,7 @@
 AddCSLuaFile()
 
 if CLIENT then
-   SWEP.PrintName = "Silenced AWP"
+   SWEP.PrintName = "Arctic Warfare Police"
    SWEP.Slot = 6
    SWEP.Icon = "vgui/ttt/icon_awp"
    SWEP.IconLetter = "r"
