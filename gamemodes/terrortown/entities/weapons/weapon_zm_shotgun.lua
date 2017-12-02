@@ -3,7 +3,7 @@ AddCSLuaFile()
 SWEP.HoldType              = "shotgun"
 
 if CLIENT then
-   SWEP.PrintName          = "shotgun_name"
+   SWEP.PrintName          = "Model 1014 Shotgun"
    SWEP.Slot               = 2
 
    SWEP.ViewModelFlip      = false
@@ -19,14 +19,14 @@ SWEP.Kind                  = WEAPON_HEAVY
 SWEP.WeaponID              = AMMO_SHOTGUN
 
 SWEP.Primary.Ammo          = "Buckshot"
-SWEP.Primary.Damage        = 11
-SWEP.Primary.Cone          = 0.085
+SWEP.Primary.Damage        = 12
+SWEP.Primary.Cone          = 0.075
 SWEP.Primary.Delay         = 0.8
-SWEP.Primary.ClipSize      = 8
-SWEP.Primary.ClipMax       = 24
-SWEP.Primary.DefaultClip   = 8
+SWEP.Primary.ClipSize      = 7
+SWEP.Primary.ClipMax       = 21
+SWEP.Primary.DefaultClip   = 7
 SWEP.Primary.Automatic     = true
-SWEP.Primary.NumShots      = 8
+SWEP.Primary.NumShots      = 7
 SWEP.Primary.Sound         = Sound( "Weapon_XM1014.Single" )
 SWEP.Primary.Recoil        = 7
 
