@@ -3,7 +3,7 @@ AddCSLuaFile()
 SWEP.HoldType            = "ar2"
 
 if CLIENT then
-   SWEP.PrintName        = "MAC10"
+   SWEP.PrintName        = "Military Armament Corporation 10"
    SWEP.Slot             = 2
 
    SWEP.ViewModelFlip    = false
