@@ -13,13 +13,13 @@ SWEP.HoldType = "ar2"
 SWEP.Primary.Ammo = "none"
 SWEP.Primary.Delay = 2
 SWEP.Primary.Recoil = 10
-SWEP.Primary.Cone = 0.001
-SWEP.Primary.Damage = 500
+SWEP.Primary.Cone = 0.010
+SWEP.Primary.Damage = 150
 SWEP.Primary.Automatic = false
 SWEP.Primary.ClipSize = 2
 SWEP.Primary.ClipMax = 2
 SWEP.Primary.DefaultClip = 2
-SWEP.Primary.Sound = Sound( "Weapon_M4A1.Silenced" )
+SWEP.Primary.Sound = Sound( "weapons/awp/awp1.wav" )
 SWEP.Secondary.Sound = Sound( "Default.Zoom" )
 
 SWEP.UseHands = true
