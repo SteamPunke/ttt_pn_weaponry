@@ -5,7 +5,7 @@ AddCSLuaFile()
 SWEP.HoldType               = "pistol"
 
 if CLIENT then
-   SWEP.PrintName           = "magnet_name"
+   SWEP.PrintName           = "Magneto Stick"
    SWEP.Slot                = 4
 
    SWEP.DrawCrosshair       = false
