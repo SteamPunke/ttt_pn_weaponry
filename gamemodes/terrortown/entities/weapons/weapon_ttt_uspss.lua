@@ -1,9 +1,9 @@
 AddCSLuaFile()
 
-SWEP.HoldType              = "pistol"
+SWEP.HoldType              = "Pistol"
 
 if CLIENT then
-   SWEP.PrintName          = "sipistol_name"
+   SWEP.PrintName          = "Universal Supressed Pistol"
    SWEP.Slot               = 6
 
    SWEP.ViewModelFlip      = false
@@ -21,8 +21,8 @@ end
 SWEP.Base                  = "weapon_tttbase"
 
 SWEP.Primary.Recoil        = 1.35
-SWEP.Primary.Damage        = 28
-SWEP.Primary.Delay         = 0.38
+SWEP.Primary.Damage        = 27
+SWEP.Primary.Delay         = 0.35
 SWEP.Primary.Cone          = 0.02
 SWEP.Primary.ClipSize      = 20
 SWEP.Primary.Automatic     = true
