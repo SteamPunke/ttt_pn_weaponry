@@ -3,7 +3,7 @@ AddCSLuaFile()
 SWEP.HoldType              = "ar2"
 
 if CLIENT then
-   SWEP.PrintName          = "rifle_name"
+   SWEP.PrintName          = "M24"
    SWEP.Slot               = 2
 
    SWEP.ViewModelFlip      = false
@@ -19,10 +19,10 @@ SWEP.Kind                  = WEAPON_HEAVY
 SWEP.WeaponID              = AMMO_RIFLE
 
 SWEP.Primary.Delay         = 1.5
-SWEP.Primary.Recoil        = 7
+SWEP.Primary.Recoil        = 5
 SWEP.Primary.Automatic     = true
 SWEP.Primary.Ammo          = "357"
-SWEP.Primary.Damage        = 50
+SWEP.Primary.Damage        = 90
 SWEP.Primary.Cone          = 0.005
 SWEP.Primary.ClipSize      = 10
 SWEP.Primary.ClipMax       = 20 -- keep mirrored to ammo
