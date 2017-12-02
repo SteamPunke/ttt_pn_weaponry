@@ -3,7 +3,7 @@ AddCSLuaFile()
 SWEP.HoldType              = "crossbow"
 
 if CLIENT then
-   SWEP.PrintName          = "H.U.G.E M249"
+   SWEP.PrintName          = "Squad Automatic Light Machine Gun 249"
    SWEP.Slot               = 2
 
    SWEP.ViewModelFlip      = false
