@@ -3,7 +3,7 @@ AddCSLuaFile()
 SWEP.HoldType              = "ar2"
 
 if CLIENT then
-   SWEP.PrintName          = "Automatic"
+   SWEP.PrintName          = "Automatic Rifle"
    SWEP.Slot               = 2
 
    SWEP.ViewModelFlip      = false
