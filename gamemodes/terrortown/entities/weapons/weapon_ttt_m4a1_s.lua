@@ -1,7 +1,7 @@
 AddCSLuaFile()
 
 if CLIENT then
-   SWEP.PrintName = "Silenced M4A1"
+   SWEP.PrintName = "Supressed Assault Rifle 15"
    SWEP.Slot = 6
    SWEP.Icon = "vgui/ttt/icon_m16"
    SWEP.IconLetter = "w"
